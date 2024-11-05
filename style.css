@@ -1,0 +1,32 @@
+html{
+    background-color:#21aba0 ;
+}
+ol{
+    display: flex;
+    justify-content:space-evenly;
+   color: black;
+}
+nav{
+    background-color: #d5e6b8;
+    padding: 10px;
+}
+h1{ 
+    font-family: "Scope One", serif;
+        display: flex;
+        justify-content: center; 
+}
+img{
+    width: 600px;
+    
+
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+h2{
+     font-family: "Scope One", serif;
+}
+.perso{width: 250px;
+height: 250px;
+object-fit:cover;}
