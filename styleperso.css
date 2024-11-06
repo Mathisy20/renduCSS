@@ -1,0 +1,41 @@
+html{
+    background-color: rgb(225, 140, 28);
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: "Exo", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+p{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    float: right;
+}
+ol{
+    display: flex;
+    justify-content:space-evenly;
+   color: black;
+   font-family: "Catamaran", sans-serif;
+   font-weight: 900px;
+   font-style: normal;
+}
+nav{
+    background-color: #df1111;
+    padding: 10px;
+}
+.perso{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.charsection{
+    display: flex;
+}
+.charsection img, .char-content {
+    width:50%;
+}
