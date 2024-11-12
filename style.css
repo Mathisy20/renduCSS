@@ -1,5 +1,5 @@
 html{
-    background-color:#21aba0 ;
+    background-color:#c7df9f ;
 }
 ol{
     display: flex;
@@ -10,7 +10,7 @@ ol{
    font-style: normal;
 }
 nav{
-    background-color: #d5e6b8;
+    background-color: #cbbf8c;
     padding: 10px;
 }
 h1{ 
@@ -31,9 +31,12 @@ h2{
      font-family: "Scope One", serif;
 }
 .perso{
+    
     width: 250px;
     height: 250px;
     object-fit:cover;
+    box-shadow: 10px 10px 5px whitesmoke;
+    
 }
 h3{
     font-family: "Scope One", serif;
@@ -45,11 +48,12 @@ h3{
 
 }
 .btn-primary{
-    background-color: #63B995;
-     border: #423E28 3px solid;
+    background-color: #f0a707;
+     border: #b5bab1 3px solid;
+     box-shadow: 5px 5px #d7d705(8, 8, 8);
 }
 .btn-primary:hover{
-    background-color: #ADEEE3;
+    background-color: #66b02d;
 }
 p{
     font-family: "Catamaran", serif;
